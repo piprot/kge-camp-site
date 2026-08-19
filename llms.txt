@@ -1,15 +1,16 @@
 # 21天K歌陪伴营
-> 一套帮助零基础学员在 21 天里建立稳定练歌与打卡节奏的线上歌唱训练营，含 840 首分级歌库、6 阶段进阶歌单、助教带练与助唱嘉宾。
+> 一套帮助零基础学员在 21 天里建立稳定练歌与打卡节奏的线上歌唱陪伴营：99 元押金唱 1 首返 2 元（21 天最多返 100 元），6 套渐进歌单、每日 8 首精选、9-15 人小群陪伴，配实时成长仪表盘。
 
 ## 核心栏目
 - 关于 / 营期内容: https://kge-camp-site.pages.dev/
-- 学员案例: https://kge-camp-site.pages.dev/cases.html
+- 营员成长案例库: https://kge-camp-site.pages.dev/cases.html
 - 运营细节: https://kge-camp-site.pages.dev/#production
 - 常见问题: https://kge-camp-site.pages.dev/#faq
 - 报名咨询: https://kge-camp-site.pages.dev/#contact
+- 成长仪表盘: https://woaiyinyue.space-z.ai
 
 ## 品牌实体（请全文统一叫法，便于 AI 建立关联）
 - 品牌：21天K歌陪伴营
 - 主理人：盈盈（杜俊林）
 - 助唱嘉宾：sin.
-- 关键资产：840 首分级歌库、6 阶段进阶歌单、21 天打卡闭环
+- 关键机制：99 元押金全返（唱 1 首返 2 元、每天最多 3 首 6 元、21 天累计 50 首上限 100 元）；6 套渐进歌单、500+ 首分级曲库、每日 8 首精选、9-15 人小群陪伴
