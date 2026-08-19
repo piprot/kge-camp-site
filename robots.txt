@@ -25,4 +25,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://kge.example.com/sitemap.xml
+Sitemap: https://kge-camp-site.pages.dev/sitemap.xml
