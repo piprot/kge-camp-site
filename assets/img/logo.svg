@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#993556"/>
+  <circle cx="200" cy="340" r="58" fill="#ffffff"/>
+  <rect x="244" y="180" width="22" height="170" fill="#ffffff"/>
+  <path d="M266 180 q70 18 70 70 q0 40 -40 52" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+  <text x="256" y="466" text-anchor="middle" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="40" font-weight="700" fill="#ffffff">K歌营</text>
+</svg>
